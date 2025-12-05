@@ -55,6 +55,9 @@ dehacked
 
 [patches]
 rsky1
+rw48_4
+rw48_2
+sw1skull
 
 [graphics]
 stgnum0
