@@ -1,0 +1,88 @@
+[sprites]
+bon1a0   8  20
+bon1b0   8  20
+bon1c0   8  20
+bon1d0   8  20
+bon2a0   8  20
+bon2b0   8  20
+bon2c0   8  20
+bon2d0   8  20
+bkeya0  13  35
+bkeyb0  13  35
+bkeyc0  13  35
+bkeyd0  13  35
+bskua0  13  35
+bskub0  13  35
+bskuc0  13  35
+bskud0  13  35
+rkeya0  13  35
+rkeyb0  13  35
+rkeyc0  13  35
+rkeyd0  13  35
+rskua0  13  35
+rskub0  13  35
+rskuc0  13  35
+rskud0  13  35
+ykeya0  13  35
+ykeyb0  13  35
+ykeyc0  13  35
+ykeyd0  13  35
+yskua0  13  35
+yskub0  13  35
+yskuc0  13  35
+yskud0  13  35
+wicha0  16  32
+wichb0  16  32
+wichc0  16  32
+wichd0  16  32
+tfoga0  32  64
+tfogb0  32  64
+tfogc0  32  64
+tfogd0  32  64
+tfoge0  32  64
+tfogf0  32  64
+tfogg0  32  64
+tfogh0  32  64
+tfogi0  32  64
+tfogj0  32  64
+tfogk0  32  64
+
+[levels]
+map01
+
+[lumps]
+dehacked
+
+[patches]
+rsky1
+
+[graphics]
+stgnum0
+stgnum1
+stgnum2
+stgnum3
+stgnum4
+stgnum5
+stgnum6
+stgnum7
+stgnum8
+stgnum9
+stkeys0
+stkeys1
+stkeys2
+stkeys3
+stkeys4
+stkeys5
+stkeys6
+stkeys7
+stkeys8
+stysnum0
+stysnum1
+stysnum2
+stysnum3
+stysnum4
+stysnum5
+stysnum6
+stysnum7
+stysnum8
+stysnum9
