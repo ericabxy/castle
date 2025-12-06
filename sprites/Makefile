@@ -1,6 +1,6 @@
 CP = cp
 
-normal:
+normal: soula0.png soulb0.png
 	$(CP) soula0.png bkeya0.png
 	$(CP) soulb0.png bkeyb0.png
 	$(CP) soulc0.png bkeyc0.png

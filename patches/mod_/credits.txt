@@ -1,0 +1,1 @@
+"mod" textures from Freedoom 0.11 and greater.

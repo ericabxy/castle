@@ -71,6 +71,10 @@ for key, value in keythings.items():
             {spr} D 5
             Loop
     '''.format(spr = value)))
+dehfile.ammodata[am_clip].maxammo = 0
+dehfile.ammodata[am_shell].maxammo = 0
+dehfile.ammodata[am_misl].maxammo = 0
+dehfile.ammodata[am_cell].maxammo = 0
 dehfile.miscdata.initial_bullets = 0
 dehfile.sprnames[SPR_SOUL] = 'WICH'
 dehfile.strings.GOTHTHBONUS = 'Got a sapphire cask!'

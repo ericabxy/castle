@@ -1,6 +1,6 @@
 CP = cp
 
-normal:
+normal: battlefield.wad
 	$(CP) battlefield.wad map01.wad
 
 clean:
