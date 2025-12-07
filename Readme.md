@@ -49,7 +49,7 @@ Here are some tips for finding all keys, items, and secrets.
 
 ### Look Up
 
-You'll notice many collectible objects are out-of-reach vertically. Some of them can be lowered simply by "using" (pressing SPACE or E) the pillar they are hoisted on. Others require you to cross certain lines on the course in order to lower them. The exit requires you to punch it (on keyboard by pressing Ctrl or Fire).
+You'll notice many collectible objects are out-of-reach vertically. They may be triggered to lower by crossing a line, punching something, or pressing Use. Some you must find steps to raise yourself up to.
 
 ### Hurry Up
 
