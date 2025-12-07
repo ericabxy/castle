@@ -15,6 +15,9 @@ normal:
 run: $(DOOM2)/doom2.wad $(WADOUT)
 	$(BOOM) -file $(WADOUT) -warp 01
 
+textures:
+	deutex -doom2 $(DOOM2) -make config/textures.wadinfo textures.wad
+
 clean:
 	$(MAKE) -C bootstrap clean
 	$(MAKE) -C graphics clean
