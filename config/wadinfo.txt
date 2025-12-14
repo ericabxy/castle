@@ -35,7 +35,7 @@ stysnum8
 stysnum9
 
 [levels]
-map01
+map01 = battlefi
 
 [lumps]
 dehacked

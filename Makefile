@@ -5,7 +5,6 @@ WADOUT = castle.wad
 normal:
 	$(MAKE) -C bootstrap
 	$(MAKE) -C graphics
-	$(MAKE) -C levels
 	$(MAKE) -C lumps
 	$(MAKE) -C patches
 	$(MAKE) -C sprites
@@ -21,7 +20,6 @@ textures:
 clean:
 	$(MAKE) -C bootstrap clean
 	$(MAKE) -C graphics clean
-	$(MAKE) -C levels clean
 	$(MAKE) -C lumps clean
 	$(MAKE) -C patches clean
 	$(MAKE) -C sprites clean
